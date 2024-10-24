@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Animations;
 
-public class WolfEnemy : MonoBehaviour
+public class Enemy : MonoBehaviour
 {
 
     public int rutina;

@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class RangoEnemigo2D : MonoBehaviour
+public class RangoEnemigo2DTest : MonoBehaviour
 {
 
     public Animator ani;
